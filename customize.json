@@ -1,0 +1,31 @@
+{
+  "greeting": "你好啊",
+  "name": "雅欣",
+  "greetingText": "今天不小心惹你生气了，我想说，非常抱歉惹你不开心了！",
+  "wishText": "我严重检讨自己的错误。",
+  "imagePath": "img/lydia2.png",
+  "text1": "请你不要生气了!! :D",
+  "textInChatBox": "非常非常非常诚挚的祝你每天开心快乐！！！很多很多的快乐……",
+  "sendButtonLabel": "发送",
+  "text2": "一个特别的道歉方式",
+  "text3": "本来想着做一个生日u…u，没想到现在用上了",
+  "text4": "我意见深刻认识到，自己今天的过错",
+  "text4Adjective": "在这里做一个",
+  "text5Entry": "特别的，",
+  "text5Content": "道歉方式！",
+  "smiley": ":)",
+  "bigTextPart1": "所",
+  "bigTextPart2": "以",
+  "wishHeading": "你消消气啊!",
+  "outroText": "我希望你喜欢这个小小的道歉方式!",
+  "replayText": "如果你喜欢的话，可以再看一次哦!或者……",
+  "outroSmiley": ":)",
+  "music": "./music/bgMusic.mp3",
+  "fonts": [
+    {
+      "name": "Sky Zheng",
+      "path": "https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap"
+    }
+  ]
+}
+
